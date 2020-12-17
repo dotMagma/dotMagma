@@ -1,4 +1,5 @@
-### Hi there 👋
+## Olá, meu nome é dotMagma 👋!
+:mortar_board: Atualmente estou estudando programação, e também me aventurando em NodeJS :rocket:.
 
 <!--
 **dotMagma/dotMagma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
